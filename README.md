@@ -21,7 +21,8 @@ Displacement of Ice for incident T = 100.0 s
                     +--------------------------------------------+                                                 
                     0                                    10000
                                      x in m
-
+				     
+Contribution of Euler-Bernoulli Mode 1
 
 	   +--------------------------------------------+                                   
        0.9 |⠀⢰⢇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀| Euler Bernoulli Mode Number 1 vs ω
@@ -45,5 +46,6 @@ Displacement of Ice for incident T = 100.0 s
 
 
 ```
+(Generated using [Gridap.jl](https://github.com/gridap/Gridap.jl) and [UnicodePlots.jl](https://github.com/Evizero/UnicodePlots.jl). The code can be found here)
 
 My name is Balaje and I am a Math PhD student at the University of Newcastle, Australia. I am from India and I did my Masters from BITS Pilani K.K.Birla Goa Campus. You can check out my [Google Scholar](https://scholar.google.com.au/citations?user=h_FPNVAAAAAJ&hl=en) if you want to have a look at my papers. Or if you want to know what I am working on, check out my [website :black_nib:](https://balaje.github.io).
