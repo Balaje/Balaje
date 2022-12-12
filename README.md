@@ -23,4 +23,4 @@ My name is Balaje and I am a postdoctoral fellow at Umeå University, Sweden. I 
                       0                                            40000  
                                            x (in m)                       
 ```
-(Generated using [Gridap.jl](https://github.com/gridap/Gridap.jl) and [UnicodePlots.jl](https://github.com/Evizero/UnicodePlots.jl). The code can be found [here](https://github.com/Balaje/Gridap-Ice)) 
+(Generated using [Gridap.jl](https://github.com/gridap/Gridap.jl) and [UnicodePlots.jl](https://github.com/Evizero/UnicodePlots.jl). The code can be found [here](https://github.com/Balaje/iceFEM.jl)) 
